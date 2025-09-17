@@ -10,7 +10,7 @@ sections:
       title: |
         欢迎来到计算智能实验室！
       image:
-        filename: welcome.jpg
+        filename: welcome2.jpg
       text: |
         <br>
         
