@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        111111111111111111
+        欢迎来到计算智能实验室！
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        自 2023 年成立以来，计算智能实验室一直是计算智能研究、教学和实践的卓越中心。
   
   - block: collection
     content:
