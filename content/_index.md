@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        欢迎来到计算智能实验室！
+        111111111111111111
       image:
         filename: welcome.jpg
       text: |
