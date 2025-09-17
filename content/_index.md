@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        欢迎来到计算智能实验室！
       image:
         filename: welcome.jpg
       text: |
